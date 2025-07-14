@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+cypress/results/
+.cypress-cache/
+
+# Environment files
+.env
+.env.*
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# MacOS system files
+.DS_Store
+
+# Optional: Git hooks or coverage
+.husky/
+coverage/
+
+# Optional: OS logs
+*.log
